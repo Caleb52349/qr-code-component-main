@@ -1,0 +1,24 @@
+body{
+    background-color: hsl(var(--Grayish-blue));
+    margin: 0;
+    line-height: normal;
+}
+
+/* Colors */
+:root{
+    /* Colors */
+    --White:  0 0% 100;
+    --Light-gray: 212, 45%, 89%;
+    --Grayish-blue: 220,15% ,55%;
+    --Dark-blue: 218, 44%, 22%;
+    
+      /* font sizes */
+    --font-size: 15px; 
+
+    /* fonts */
+    --font-sansserif: SansSerif;
+}
+
+
+
+

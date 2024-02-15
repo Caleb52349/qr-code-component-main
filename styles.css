@@ -1,0 +1,56 @@
+body{
+    background-color: hsl(220,15% ,55%);
+    margin: 0;
+    line-height: normal;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: var(--font-sansserif);
+    width: 375px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+}
+.title-container{
+    margin:20px;
+}
+
+.subtitle-container{
+    margin:20px;
+}
+
+h1{
+    margin: 0;
+    font-size: 28px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+p{
+    margin: 0;
+    text-align: center;
+    font-size: 17px;
+    color: hsl(212, 45%, 89%);
+    font-weight: 400;
+}
+
+img{
+    position: relative;
+    width: calc(100% - 30px);
+    top: 10px;
+    right: 15px;
+    left: 15px;
+    border-radius: 15px;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
