@@ -10,7 +10,7 @@ This is a solution to the https://www.frontendmentor.io/challenges/qr-code-compo
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 ## Links
-Live Site URL: Netlify
+Live Site URL: [Netlify](https://cdanso-qrcode.netlify.app/)
 
 ## Author
 - Website - Caleb Danso
